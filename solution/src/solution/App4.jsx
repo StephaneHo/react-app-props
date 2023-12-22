@@ -5,7 +5,7 @@ import "./App.css";
 
 const equipments = [
   {
-    name: "nacelle3",
+    name: "nacelle",
     image: nacelleImg,
   },
   {
